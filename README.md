@@ -148,9 +148,3 @@ This keeps the research question separable from simulator complexity and allows 
 **Phase:** Research framing and prerequisite planning.
 
 No novelty claim has been finalized yet.
-
-## Author
-
-**Chaitanya** — Undergraduate Student, Robotics & Automation Engineering
-
-GitHub: [@devwithchai](https://github.com/devwithchai)
